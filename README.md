@@ -1,4 +1,4 @@
-# 🛡️ Home AI SOC — Playbook-Driven Alert Triage
+# 🛡️ AI SOC — Playbook-Driven Alert Triage
 
 > An AI-powered Security Operations Center for a home network, built in a single day.
 > Every IPS alert is investigated by an AI agent that reads a **living playbook from Confluence** before it renders a verdict — and the result lands in Slack in under 60 seconds.
